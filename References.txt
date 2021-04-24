@@ -1,0 +1,30 @@
+Log loss:
+https://www.youtube.com/watch?v=MztgenIfGgM
+https://www.youtube.com/watch?v=k_S5fnKjO-4
+https://www.youtube.com/watch?v=JDU3AzH3WKg
+
+https://www.youtube.com/watch?v=l8VEth6leXA
+https://stackoverflow.com/questions/15450192/fastest-way-to-compute-entropy-in-python
+
+
+https://www.youtube.com/watch?v=JDU3AzH3WKg
+https://www.youtube.com/watch?v=8dCNDbRDaug
+
+Further readings:
+https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Multi%20Class%20Logistic%20Regression.ipynb
+
+Multinomial logistic regression:
+
+https://www.youtube.com/watch?v=y0wQK3mnrNY
+
+Evaluation of classification models:
+https://www.ritchieng.com/machine-learning-evaluate-classification-model/
+
+
+confusion matrix:
+https://towardsdatascience.com/confusion-matrix-deep-dive-8a028b005a97
+
+Dot Matrix:
+https://towardsdatascience.com/linear-algebra-basics-dot-product-and-matrix-multiplication-2a7624942810
